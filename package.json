@@ -1,5 +1,5 @@
 {
-  "name": "internet-shop-react-redux",
+  "name": "shop-react-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,6 +16,7 @@
     "superagent": "^3.5.2"
   },
   "devDependencies": {
+    "gh-pages": "^1.0.0",
     "react-scripts": "0.9.5"
   },
   "scripts": {
